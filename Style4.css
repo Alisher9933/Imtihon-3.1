@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1{
+    transform: scale(1.1,1.1);
+}
+
+.butt1{
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    width: 175px;
+    height: 45px;
+    border-radius: 9px;
+    background-color: #037E8C;
+    border-color: #037E8C;
+    cursor: pointer;
+}
+
+.butt1:active{
+    background-color: #00535c;
+}
