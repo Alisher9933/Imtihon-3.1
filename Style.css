@@ -417,10 +417,11 @@ body {
 .div26 {
   width: 303px;
   height: 309px;
+    transition: all 0.5s;
+
 }
 .div26:hover {
   transform: scale(1.1, 1.1);
-  transition: all 0.5s;
 }
 
 .div25 {
@@ -488,8 +489,9 @@ body {
 .img3{
   width: 303px;
   height: 403px;
+        transition: all 0.5s;
+
   &:hover {
       transform: scale(1.1, 1.1);
-      transition: all 0.5s;
   }
 }/*# sourceMappingURL=Style.css.map */
