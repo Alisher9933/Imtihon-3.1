@@ -185,6 +185,12 @@ body {
   background-color: #00535c;
 }
 
+.div12{
+  width: 359px;
+  height: 359px;
+  overflow: auto;
+}
+
 .img1 {
   width: 703px;
   height: 359.29px;
@@ -417,7 +423,7 @@ body {
 .div26 {
   width: 303px;
   height: 309px;
-    transition: all 0.5s;
+  transition: all 0.5s;
 
 }
 .div26:hover {
@@ -489,7 +495,7 @@ body {
 .img3{
   width: 303px;
   height: 403px;
-        transition: all 0.5s;
+  transition: all 0.5s;
 
   &:hover {
       transform: scale(1.1, 1.1);
